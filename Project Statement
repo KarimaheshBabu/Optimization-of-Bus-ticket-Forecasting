@@ -1,0 +1,10 @@
+Project Statement
+Client: A Leading Bus Transportation Company 
+Project Name : Optimization of Bus Ticketing Demand and Forecasting 
+Business Problem The bus service struggles with inefficient resource allocation, overbooked or underutilized trips, and customer dissatisfaction due to misaligned schedules and unpredictable demand patterns.
+These issues lead to revenue loss, increased operational costs, and poor customer experiences, such as frequent cancellations or routes operating with minimal occupancy. 
+Objective Maximize prediction accuracy for future ticket sales and passenger demand. Minimize operational costs by optimizing trip schedules and resource allocation. 
+Constraints Ensure full compliance with applicable data privacy regulations (e.g., GDPR, CCPA). Maintain the interpretability and usability of the predictive model to facilitate actionable insights and informed business decision-making. 
+Success Criteria Business Success Criteria: Achieve at least a 15% improvement in customer satisfaction scores based on feedback surveys. 
+Machine Learning Success Criteria: Achieve a Mean Absolute Percentage Error (MAPE) of less than 10% in demand forecasting. 
+Economic Success Criteria: Reduce operational costs (e.g., fuel, staffing) by at least 15% through optimized resource allocation.
