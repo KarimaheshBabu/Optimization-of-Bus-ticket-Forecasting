@@ -1,5 +1,4 @@
-# Optimization-of-Bus-ticket-Forecasting
-# Bus Ticket Revenue Forecasting App
+# Optimization of Bus Ticketing Demand and Forecasting
 
 ## 1. Business and Data Understanding
 
